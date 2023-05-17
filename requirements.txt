@@ -10,7 +10,7 @@ astunparse==1.6.3
 async-generator==1.10
 async-timeout==4.0.2
 attrs==22.2.0
-autogluon>=0.7.0
+autogluon==0.7.0
 autogluon.common==0.7.0
 autogluon.core==0.7.0
 autogluon.features==0.7.0
